@@ -4,4 +4,4 @@ Here you can see what we've already done.
 
 Один из первых телефонов в Российской Империи                                                                        |  Дорожный кофр                                                                          | Венские стулья |
 :--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:-----------------------------------------------------|
-![](https://github.com/Alliluyev-Museum/.github/blob/main/src/phone.jpg)  |  ![](https://github.com/Alliluyev-Museum/.github/blob/main/src/road_cofre.jpg) | <img src="https://github.com/Alliluyev-Museum/.github/blob/main/src/singer_and_chairs.jpg" width="250" /> 
+![](https://github.com/Alliluyev-Museum/.github/blob/main/src/phone.jpg)  |  ![](https://github.com/Alliluyev-Museum/.github/blob/main/src/road_cofre.jpg) | ![](https://github.com/Alliluyev-Museum/.github/blob/main/src/singer_and_chairs.jpg) /> 
